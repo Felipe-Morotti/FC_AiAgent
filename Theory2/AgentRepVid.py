@@ -1,5 +1,5 @@
 import os
-os.environ['GROQ_API_KEY'] = "" \\API apagada por segurança.
+os.environ['GROQ_API_KEY'] = "" \\código da api apagada por segurança.
 
 from groq import Groq
 
